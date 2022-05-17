@@ -1,8 +1,7 @@
 # F711
-2007-2011 Random UID Cloning.
-```
 
-Paid Tools : Ok IDs File Cloning 
+```
+Paid Tools : 2007-2011 Random UID Cloning.
 
 $ pkg update
 
